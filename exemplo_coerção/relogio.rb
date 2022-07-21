@@ -32,3 +32,5 @@ puts novo_intervalo.to_s
 #pois nesta classe o método to_i já está definido e retorna o próprio objeto em que foi chamado. Bonito, não?
 
 #Referências: http://www.mutuallyhuman.com/blog/2011/01/25/class-coercion-in-ruby/ https://pragprog.com/book/ruby/programming-ruby
+
+tst
