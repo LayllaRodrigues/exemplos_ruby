@@ -33,4 +33,4 @@ puts novo_intervalo.to_s
 
 #Referências: http://www.mutuallyhuman.com/blog/2011/01/25/class-coercion-in-ruby/ https://pragprog.com/book/ruby/programming-ruby
 
-tst
+teste git 
